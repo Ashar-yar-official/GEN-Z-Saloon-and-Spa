@@ -927,7 +927,7 @@ int main()
 	
 	string name;
 	cout<<"\t Enter your name : ";
-	cin>>name;
+	getline(cin,name);
 	double contact;
 	cout<<"\t Enter your contact number : ";
 	cin>>contact;
