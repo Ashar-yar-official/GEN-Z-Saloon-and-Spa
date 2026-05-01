@@ -1,4 +1,3 @@
-# GEN-Z-Saloon-and-Spa
 START
 │
 ├── User Details
